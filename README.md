@@ -4,14 +4,27 @@
 
 情報系の大学生(B4)です。今は深層学習を中心に勉強しています。  
 趣味は散歩がてら写真を撮ることです。  
+カフェラテやコーヒーは好きですが、それなりにカロリーがあるので今は抑えています。
 
 Github は以前も使用していましたが、心機一転するため新しくアカウントを作成しました。  
 [Zenn](https://zenn.dev/cafelat) で記事を公開しています。こちらは時間のあるときに知識のアウトプットとしてまとめたいと思います。
 文章は拙いかもしれませんが、温かい目で見ていただけると幸いです。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cafelat)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafelat&layout=compact&show_icons=true&theme=default" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Cafelat&theme=default&show_icons=ture" />
+</p>
+
 
 (以下は自分語りなので読まなくて構いません。)
+
+### 大学でやってきたこと
+- 友人とハッカソンに参加
+- 1年間 モバイルアプリケーションを作成するプロジェクトに参加
+- 海外研修 (30日間)
+- 写真部 部長
+- 研究会で研究成果の発表
+etc.
 
 ### Zenn を始めた目的
 アウトプットすることで知識を定着させることはもちろん、人間は忘れるようにできているので忘れた後、再度必要になったときにまた0から調べるのではなくある程度この文章を読むだけで思い出せるようにしておくことが1つの理由になります。  
