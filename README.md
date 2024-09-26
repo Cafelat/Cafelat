@@ -12,7 +12,7 @@ Github は以前も使用していましたが、心機一転するため新し�
 
 <p align="left"> 
   <img alt="Top Langs" height="140px" src="https://github-readme-statsclone-git-main-cafelats-projects.vercel.app/api?username=Cafelat&count_private=true"/>
-  <img alt="github stats" height="140px" src=https://github-readme-statsclone-git-main-cafelats-projects.vercel.app/api/top-langs?username=Cafelat&count_private=true"/>
+  <img alt="github stats" height="140px" src="https://github-readme-statsclone-git-main-cafelats-projects.vercel.app/api/top-langs?username=Cafelat&count_private=true"/>
 </p>
 
 
