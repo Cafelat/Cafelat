@@ -11,8 +11,8 @@ Github は以前も使用していましたが、心機一転するため新し�
 文章は拙いかもしれませんが、温かい目で見ていただけると幸いです。
 
 <p align="left"> 
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafelat&layout=compact&show_icons=true&theme=default" />
-  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=Cafelat&theme=default&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafelat&layout=compact&show_icons=true&theme=default" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Cafelat&theme=default&show_icons=ture" />
 </p>
 
 
